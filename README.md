@@ -4,3 +4,5 @@ This repository contains a neural network based on a convolutional autoencoder t
 
 ## Code
 
+This script is designed to run in Google Colab and use the GPU to run it.
+File: Autoencoder_breast_2_0_.ipynb
