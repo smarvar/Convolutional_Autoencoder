@@ -1,4 +1,4 @@
-# Convolutional Autoencoder to reduce Noise in CT images of Breast Cancer
+# Convolutional Autoencoder to reduce Noise in Computed Tomography of patients with Breast Cancer
 
 This repository contains a neural network based on a convolutional autoencoder that allows to eliminate Gaussian and Poisson noise in computed tomography images.
 
